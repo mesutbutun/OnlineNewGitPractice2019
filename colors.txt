@@ -2,3 +2,4 @@ black
 red
 pink
 PINK-YELLOW-WHITE
+Blue
