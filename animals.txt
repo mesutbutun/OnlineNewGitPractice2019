@@ -2,3 +2,4 @@ Cow
 Goat
 Donkeyt
 Dog
+Cat
